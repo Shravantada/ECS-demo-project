@@ -7,4 +7,4 @@ def home():
     return "Hello, World! This is a Flask app."
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)  # Runs on all available interfaces
+    app.run(host='0.0.0.0', port=8000)  # Runs on all available interfaces
